@@ -234,11 +234,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dogan\\source\\repos\\mdemo\\ProductApi\\ProductApi\\ProductApi.csproj",
+      "projectUniqueName": "C:\\Users\\dogan\\source\\repos\\ndd\\MicroTest\\ProductApi\\ProductApi\\ProductApi.csproj",
       "projectName": "ProductApi",
-      "projectPath": "C:\\Users\\dogan\\source\\repos\\mdemo\\ProductApi\\ProductApi\\ProductApi.csproj",
+      "projectPath": "C:\\Users\\dogan\\source\\repos\\ndd\\MicroTest\\ProductApi\\ProductApi\\ProductApi.csproj",
       "packagesPath": "C:\\Users\\dogan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dogan\\source\\repos\\mdemo\\ProductApi\\ProductApi\\obj\\",
+      "outputPath": "C:\\Users\\dogan\\source\\repos\\ndd\\MicroTest\\ProductApi\\ProductApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dogan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -255,8 +255,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\dogan\\source\\repos\\mdemo\\ProductApi\\ProductApi.Domain\\ProductApi.Domain.csproj": {
-              "projectPath": "C:\\Users\\dogan\\source\\repos\\mdemo\\ProductApi\\ProductApi.Domain\\ProductApi.Domain.csproj"
+            "C:\\Users\\dogan\\source\\repos\\ndd\\MicroTest\\ProductApi\\ProductApi.Domain\\ProductApi.Domain.csproj": {
+              "projectPath": "C:\\Users\\dogan\\source\\repos\\ndd\\MicroTest\\ProductApi\\ProductApi.Domain\\ProductApi.Domain.csproj"
             }
           }
         }

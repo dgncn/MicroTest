@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zHieDuq27rGUY/cW4zHcGaHUhnVRZPm7xh7hptoD5zkYp939tMWa3O36fHNeVjMd1zzCs3YvCvY37ZmHW72sPg==",
+  "dgSpecHash": "oc6P+wRtbXFo1/EW4azPU14thaViMLgMr99q1g+FTggzYXqQNf8RfbfFA2MdcGFMCc0iNP9U/5LM/XZ5yu7/Mg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dogan\\source\\repos\\mdemo\\ProductApi\\ProductApi.Data\\ProductApi.Data.csproj",
+  "projectFilePath": "C:\\Users\\dogan\\source\\repos\\ndd\\MicroTest\\ProductApi\\ProductApi.Data\\ProductApi.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dogan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\dogan\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

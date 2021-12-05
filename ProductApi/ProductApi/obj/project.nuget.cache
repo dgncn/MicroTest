@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FGUw9qyj0dcXEwTVn3WdNIbsHQmu6Z66aIt+t08hNciHXty3SlZ8h32L88jHdXPo0+jR8Fy0YFgwpyK0x2ZtcQ==",
+  "dgSpecHash": "lUw/GG0QOkmMTdyYyB84xntzzrTZOpe0kI9e0Xzs5xt65KTA0LxW9g7RVM1EvZNupriqud+uPirrgnLXHYBBlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dogan\\source\\repos\\mdemo\\ProductApi\\ProductApi\\ProductApi.csproj",
+  "projectFilePath": "C:\\Users\\dogan\\source\\repos\\ndd\\MicroTest\\ProductApi\\ProductApi\\ProductApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dogan\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\dogan\\.nuget\\packages\\fluentvalidation\\10.3.5\\fluentvalidation.10.3.5.nupkg.sha512",

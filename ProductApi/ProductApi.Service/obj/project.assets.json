@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dogan\\source\\repos\\mdemo\\ProductApi\\ProductApi.Service\\ProductApi.Service.csproj",
+      "projectUniqueName": "C:\\Users\\dogan\\source\\repos\\ndd\\MicroTest\\ProductApi\\ProductApi.Service\\ProductApi.Service.csproj",
       "projectName": "ProductApi.Service",
-      "projectPath": "C:\\Users\\dogan\\source\\repos\\mdemo\\ProductApi\\ProductApi.Service\\ProductApi.Service.csproj",
+      "projectPath": "C:\\Users\\dogan\\source\\repos\\ndd\\MicroTest\\ProductApi\\ProductApi.Service\\ProductApi.Service.csproj",
       "packagesPath": "C:\\Users\\dogan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dogan\\source\\repos\\mdemo\\ProductApi\\ProductApi.Service\\obj\\",
+      "outputPath": "C:\\Users\\dogan\\source\\repos\\ndd\\MicroTest\\ProductApi\\ProductApi.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dogan\\AppData\\Roaming\\NuGet\\NuGet.Config",

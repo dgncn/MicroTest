@@ -7,3 +7,13 @@ C:\Users\dogan\source\repos\mdemo\ProductApi\ProductApi.Service\obj\Debug\netcor
 C:\Users\dogan\source\repos\mdemo\ProductApi\ProductApi.Service\obj\Debug\netcoreapp3.1\ProductApi.Service.csproj.CoreCompileInputs.cache
 C:\Users\dogan\source\repos\mdemo\ProductApi\ProductApi.Service\obj\Debug\netcoreapp3.1\ProductApi.Service.dll
 C:\Users\dogan\source\repos\mdemo\ProductApi\ProductApi.Service\obj\Debug\netcoreapp3.1\ProductApi.Service.pdb
+C:\Users\dogan\source\repos\ndd\MicroTest\ProductApi\ProductApi.Service\bin\Debug\netcoreapp3.1\ProductApi.Service.deps.json
+C:\Users\dogan\source\repos\ndd\MicroTest\ProductApi\ProductApi.Service\bin\Debug\netcoreapp3.1\ProductApi.Service.dll
+C:\Users\dogan\source\repos\ndd\MicroTest\ProductApi\ProductApi.Service\bin\Debug\netcoreapp3.1\ProductApi.Service.pdb
+C:\Users\dogan\source\repos\ndd\MicroTest\ProductApi\ProductApi.Service\obj\Debug\netcoreapp3.1\ProductApi.Service.csproj.AssemblyReference.cache
+C:\Users\dogan\source\repos\ndd\MicroTest\ProductApi\ProductApi.Service\obj\Debug\netcoreapp3.1\ProductApi.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogan\source\repos\ndd\MicroTest\ProductApi\ProductApi.Service\obj\Debug\netcoreapp3.1\ProductApi.Service.AssemblyInfoInputs.cache
+C:\Users\dogan\source\repos\ndd\MicroTest\ProductApi\ProductApi.Service\obj\Debug\netcoreapp3.1\ProductApi.Service.AssemblyInfo.cs
+C:\Users\dogan\source\repos\ndd\MicroTest\ProductApi\ProductApi.Service\obj\Debug\netcoreapp3.1\ProductApi.Service.csproj.CoreCompileInputs.cache
+C:\Users\dogan\source\repos\ndd\MicroTest\ProductApi\ProductApi.Service\obj\Debug\netcoreapp3.1\ProductApi.Service.dll
+C:\Users\dogan\source\repos\ndd\MicroTest\ProductApi\ProductApi.Service\obj\Debug\netcoreapp3.1\ProductApi.Service.pdb

@@ -11,3 +11,16 @@ C:\Users\dogan\source\repos\mdemo\ProductApi\ProductApi.Data\obj\Debug\netcoreap
 C:\Users\dogan\source\repos\mdemo\ProductApi\ProductApi.Data\bin\Debug\netcoreapp3.1\ProductApi.Domain.dll
 C:\Users\dogan\source\repos\mdemo\ProductApi\ProductApi.Data\bin\Debug\netcoreapp3.1\ProductApi.Domain.pdb
 C:\Users\dogan\source\repos\mdemo\ProductApi\ProductApi.Data\obj\Debug\netcoreapp3.1\ProductApi.Data.csproj.CopyComplete
+C:\Users\dogan\source\repos\ndd\MicroTest\ProductApi\ProductApi.Data\bin\Debug\netcoreapp3.1\ProductApi.Data.deps.json
+C:\Users\dogan\source\repos\ndd\MicroTest\ProductApi\ProductApi.Data\bin\Debug\netcoreapp3.1\ProductApi.Data.dll
+C:\Users\dogan\source\repos\ndd\MicroTest\ProductApi\ProductApi.Data\bin\Debug\netcoreapp3.1\ProductApi.Data.pdb
+C:\Users\dogan\source\repos\ndd\MicroTest\ProductApi\ProductApi.Data\bin\Debug\netcoreapp3.1\ProductApi.Domain.dll
+C:\Users\dogan\source\repos\ndd\MicroTest\ProductApi\ProductApi.Data\bin\Debug\netcoreapp3.1\ProductApi.Domain.pdb
+C:\Users\dogan\source\repos\ndd\MicroTest\ProductApi\ProductApi.Data\obj\Debug\netcoreapp3.1\ProductApi.Data.csproj.AssemblyReference.cache
+C:\Users\dogan\source\repos\ndd\MicroTest\ProductApi\ProductApi.Data\obj\Debug\netcoreapp3.1\ProductApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogan\source\repos\ndd\MicroTest\ProductApi\ProductApi.Data\obj\Debug\netcoreapp3.1\ProductApi.Data.AssemblyInfoInputs.cache
+C:\Users\dogan\source\repos\ndd\MicroTest\ProductApi\ProductApi.Data\obj\Debug\netcoreapp3.1\ProductApi.Data.AssemblyInfo.cs
+C:\Users\dogan\source\repos\ndd\MicroTest\ProductApi\ProductApi.Data\obj\Debug\netcoreapp3.1\ProductApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\dogan\source\repos\ndd\MicroTest\ProductApi\ProductApi.Data\obj\Debug\netcoreapp3.1\ProductApi.Data.csproj.CopyComplete
+C:\Users\dogan\source\repos\ndd\MicroTest\ProductApi\ProductApi.Data\obj\Debug\netcoreapp3.1\ProductApi.Data.dll
+C:\Users\dogan\source\repos\ndd\MicroTest\ProductApi\ProductApi.Data\obj\Debug\netcoreapp3.1\ProductApi.Data.pdb
