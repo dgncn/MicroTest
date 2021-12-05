@@ -1,0 +1,10 @@
+C:\Users\dogan\source\repos\mdemo\ProductApi\ProductApi.Domain\bin\Debug\netcoreapp3.1\ProductApi.Domain.deps.json
+C:\Users\dogan\source\repos\mdemo\ProductApi\ProductApi.Domain\bin\Debug\netcoreapp3.1\ProductApi.Domain.dll
+C:\Users\dogan\source\repos\mdemo\ProductApi\ProductApi.Domain\bin\Debug\netcoreapp3.1\ProductApi.Domain.pdb
+C:\Users\dogan\source\repos\mdemo\ProductApi\ProductApi.Domain\obj\Debug\netcoreapp3.1\ProductApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogan\source\repos\mdemo\ProductApi\ProductApi.Domain\obj\Debug\netcoreapp3.1\ProductApi.Domain.AssemblyInfoInputs.cache
+C:\Users\dogan\source\repos\mdemo\ProductApi\ProductApi.Domain\obj\Debug\netcoreapp3.1\ProductApi.Domain.AssemblyInfo.cs
+C:\Users\dogan\source\repos\mdemo\ProductApi\ProductApi.Domain\obj\Debug\netcoreapp3.1\ProductApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dogan\source\repos\mdemo\ProductApi\ProductApi.Domain\obj\Debug\netcoreapp3.1\ProductApi.Domain.dll
+C:\Users\dogan\source\repos\mdemo\ProductApi\ProductApi.Domain\obj\Debug\netcoreapp3.1\ProductApi.Domain.pdb
+C:\Users\dogan\source\repos\mdemo\ProductApi\ProductApi.Domain\obj\Debug\netcoreapp3.1\ProductApi.Domain.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FGUw9qyj0dcXEwTVn3WdNIbsHQmu6Z66aIt+t08hNciHXty3SlZ8h32L88jHdXPo0+jR8Fy0YFgwpyK0x2ZtcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dogan\\source\\repos\\mdemo\\ProductApi\\ProductApi\\ProductApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dogan\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\dogan\\.nuget\\packages\\fluentvalidation\\10.3.5\\fluentvalidation.10.3.5.nupkg.sha512",
+    "C:\\Users\\dogan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\dogan\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
